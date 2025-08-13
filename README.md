@@ -5,7 +5,7 @@ The aim is to identify top-performing players and uncover trends based on their 
 
 ## 📂 Project Structure
 - **Strikers_Performance_Analysis.ipynb** → Jupyter Notebook containing all analysis, visualizations, and insights.
-- **data/** (optional) → Folder containing the dataset (if applicable).
+- **data** → Folder containing the dataset.
 - **README.md** → Project documentation.
 
 ## 📊 Objective
